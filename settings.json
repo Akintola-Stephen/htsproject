@@ -1,0 +1,8 @@
+{
+    "editor.fontFamily": "fira code",
+    "editor.codeLensFontFamily": "fira code",
+    "editor.inlineHints.fontFamily": "fira code",
+    "scm.inputFontFamily": "fira code",
+    "markdown.preview.fontFamily": "fira code",
+    "mssql.resultsFontFamily": "fira code"
+}
